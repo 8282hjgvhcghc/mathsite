@@ -1,0 +1,8 @@
+# 数据目录（题目截图 + SQLite 数据库，含做题记录）
+images/
+data/
+
+# 临时与日志
+*.log
+__pycache__/
+*.pyc

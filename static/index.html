@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>考研数学刷题本</title>
+<link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<div id="app">
+  <aside class="sidebar">
+    <div class="brand">
+      <div class="brand-logo">数</div>
+      <div class="brand-name">考研数学刷题本</div>
+    </div>
+    <nav class="nav">
+      <a href="#/" class="nav-item" data-nav="home">主页</a>
+      <a href="#/wrong" class="nav-item" data-nav="wrong">
+        错题本 <span class="badge" id="wrongBadge" hidden></span>
+      </a>
+      <a href="#/weekly" class="nav-item" data-nav="weekly">周测</a>
+      <div class="nav-group" id="chapterNav"></div>
+    </nav>
+    <div class="sidebar-foot">
+      <button class="theme-toggle" id="themeToggle" title="切换深浅色">深色</button>
+    </div>
+  </aside>
+
+  <main class="main">
+    <div id="view-home" class="view">
+      <header class="page-head">
+        <h1>考研数学刷题本</h1>
+        <p class="sub">邂逅遗憾 27 数学思维课 · 做题本</p>
+      </header>
+      <section class="subject-grid" id="subjectGrid"></section>
+    </div>
+
+    <div id="view-overview" class="view" hidden>
+      <header class="page-head">
+        <button class="back-btn" data-go="home">返回主页</button>
+        <h1 id="ovTitle">科目</h1>
+        <p class="sub" id="ovSub"></p>
+      </header>
+      <section class="stat-cards">
+        <div class="stat-card">
+          <div class="stat-label">总题数</div>
+          <div class="stat-value" id="stTotal">-</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">已做</div>
+          <div class="stat-value" id="stDone">-</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">正确率</div>
+          <div class="stat-value" id="stAccuracy">-</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">错题数</div>
+          <div class="stat-value danger" id="stWrong">-</div>
+        </div>
+      </section>
+      <section class="chapter-list" id="chapterList"></section>
+    </div>
+
+    <div id="view-section" class="view" hidden>
+      <header class="page-head">
+        <button class="back-btn" data-go="overview">返回</button>
+        <h1 id="chTitle">章节</h1>
+        <p class="sub" id="chSub"></p>
+      </header>
+      <div class="practice-layout">
+        <div class="q-list" id="qList"></div>
+        <div class="q-stage">
+          <div class="q-card">
+            <div class="q-num" id="qNum"></div>
+            <img id="qImg" alt="题目">
+          </div>
+          <div class="q-actions">
+            <button class="btn btn-wrong" id="btnWrong">做错了</button>
+            <button class="btn btn-correct" id="btnCorrect">做对了</button>
+          </div>
+          <div class="q-nav-row">
+            <button class="btn ghost" id="btnPrev">上一题</button>
+            <span class="q-progress" id="qProgress"></span>
+            <button class="btn ghost" id="btnNext">下一题</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="view-weekly" class="view" hidden>
+      <header class="page-head">
+        <h1>周测</h1>
+        <p class="sub" id="weeklySub"></p>
+      </header>
+      <section class="chapter-list" id="weeklyList"></section>
+    </div>
+
+    <div id="view-wrong" class="view" hidden>
+      <header class="page-head">
+        <h1>错题本</h1>
+        <p class="sub" id="wrongSub"></p>
+      </header>
+      <div class="wrong-grid" id="wrongGrid"></div>
+      <div class="modal" id="wrongModal" hidden>
+        <div class="modal-mask" data-close="wrong"></div>
+        <div class="modal-box">
+          <div class="q-num" id="wrongQNum"></div>
+          <img id="wrongQImg" alt="题目">
+          <div class="q-actions">
+            <button class="btn btn-wrong" id="wrongStillWrong">还是错</button>
+            <button class="btn btn-correct" id="wrongNowCorrect">这次做对了</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+</div>
+<script src="/static/js/app.js"></script>
+</body>
+</html>
