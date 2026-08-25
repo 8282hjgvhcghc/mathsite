@@ -91,8 +91,22 @@ def overview():
         FROM sections s
         JOIN questions q ON q.section_id = s.id AND q.subject_id = ?
         LEFT JOIN attempts a ON a.question_id = q.id
-        GROUP BY s.id ORDER BY s.num
+        GROUP BY s.id
     """, (sid,)).fetchall()
+
+    def sec_key(r):
+        s = r["snum"] or ""
+        if "." in s:
+            a, b = s.split(".", 1)
+            try:
+                return (int(a), int(b))
+            except ValueError:
+                return (int(a), 999)
+        if s.isdigit():
+            return (int(s), 0)
+        return (9999, 0)
+
+    sec_rows = sorted(sec_rows, key=sec_key)
     q_rows = db.execute("""
         SELECT q.id, q.num, q.section_id, a.status
         FROM questions q LEFT JOIN attempts a ON a.question_id = q.id
