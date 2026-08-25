@@ -1,8 +1,5 @@
-# 数据目录（题目截图 + SQLite 数据库，含做题记录）
-images/
-data/
-
-# 临时与日志
+# 数据库备份与日志（做题记录已清空的 math.db 随仓库发布）
+data/math_backup.db
 *.log
 __pycache__/
 *.pyc

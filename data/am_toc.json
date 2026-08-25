@@ -1,0 +1,1297 @@
+[
+ {
+  "level": 0,
+  "title": "目 录",
+  "print_page": -4
+ },
+ {
+  "level": 0,
+  "title": "第一章 极限与函数性质",
+  "print_page": 3
+ },
+ {
+  "level": 1,
+  "title": "1.1 函数极限",
+  "print_page": 3
+ },
+ {
+  "level": 2,
+  "title": "1.1.1 极限的运算法则",
+  "print_page": 3
+ },
+ {
+  "level": 2,
+  "title": "1.1.2 抓大头、抓小头的本质",
+  "print_page": 5
+ },
+ {
+  "level": 2,
+  "title": "1.1.3 等价无穷小的本质",
+  "print_page": 6
+ },
+ {
+  "level": 2,
+  "title": "1.1.4 泰勒公式与泰勒放缩",
+  "print_page": 8
+ },
+ {
+  "level": 3,
+  "title": "1.1.4.1 泰勒公式",
+  "print_page": 8
+ },
+ {
+  "level": 3,
+  "title": "1.1.4.2 泰勒放缩（非常重要！）",
+  "print_page": 13
+ },
+ {
+  "level": 2,
+  "title": "1.1.5 洛必达法则",
+  "print_page": 15
+ },
+ {
+  "level": 2,
+  "title": "1.1.6 拉格朗日中值定理",
+  "print_page": 20
+ },
+ {
+  "level": 2,
+  "title": "1.1.7 变限积分（极限当中多为变上限积分）",
+  "print_page": 21
+ },
+ {
+  "level": 2,
+  "title": "1.1.8 幂指函数",
+  "print_page": 23
+ },
+ {
+  "level": 2,
+  "title": "1.1.9 巧用对数运算法则",
+  "print_page": 25
+ },
+ {
+  "level": 2,
+  "title": "1.1.10 无穷减无穷",
+  "print_page": 26
+ },
+ {
+  "level": 2,
+  "title": "1.1.11 无穷小的运算法则",
+  "print_page": 29
+ },
+ {
+  "level": 2,
+  "title": "1.1.12 无穷小的量级与比阶",
+  "print_page": 34
+ },
+ {
+  "level": 2,
+  "title": "1.1.13 函数连续与间断点",
+  "print_page": 38
+ },
+ {
+  "level": 2,
+  "title": "1.1.14 函数极限概念题（保号性与定性分析）",
+  "print_page": 41
+ },
+ {
+  "level": 2,
+  "title": "1.1.15 考研考过的非常规函数极限大题",
+  "print_page": 45
+ },
+ {
+  "level": 3,
+  "title": "1.1.15.1 题干出现o（狗）",
+  "print_page": 45
+ },
+ {
+  "level": 3,
+  "title": "1.1.15.2 出现 f(θx) 或 f'(θx) 或 f⁽ⁿ⁾(θx)，求θ的极限 ",
+  "print_page": 46
+ },
+ {
+  "level": 3,
+  "title": "1.1.15.3 出现 f (ξ) 或 f'(ξ) 或 f⁽ⁿ⁾(ξ)，求关于ξ的极限",
+  "print_page": 48
+ },
+ {
+  "level": 1,
+  "title": "1.2 数列极限",
+  "print_page": 49
+ },
+ {
+  "level": 2,
+  "title": "1.2.1 数列极限概念题",
+  "print_page": 49
+ },
+ {
+  "level": 3,
+  "title": "1.2.1.1 数列极限的定义与奇偶子列",
+  "print_page": 49
+ },
+ {
+  "level": 3,
+  "title": "1.2.1.2 数列的最值问题",
+  "print_page": 53
+ },
+ {
+  "level": 3,
+  "title": "1.2.1.3 用常见反例秒杀！",
+  "print_page": 55
+ },
+ {
+  "level": 3,
+  "title": "1.2.1.4 {xₙ}与{f(xₙ)}敛散性关系，一个y 否对应一个x",
+  "print_page": 58
+ },
+ {
+  "level": 2,
+  "title": "1.2.2 超必杀： 等价无穷大秒杀 n 项和数列极限！",
+  "print_page": 64
+ },
+ {
+  "level": 3,
+  "title": "1.2.2.1 传统方法处理 n 项和数列极限",
+  "print_page": 64
+ },
+ {
+  "level": 3,
+  "title": "1.2.2.2 超必杀： 等价无穷大秒杀 n 项和数列极限！",
+  "print_page": 66
+ },
+ {
+  "level": 3,
+  "title": "1.2.2.3 思考：n 项和数列极限能否等价无穷小？",
+  "print_page": 68
+ },
+ {
+  "level": 2,
+  "title": "1.2.3 n 项连乘数列极限",
+  "print_page": 69
+ },
+ {
+  "level": 2,
+  "title": "1.2.4 数列极限和函数极限的转化",
+  "print_page": 70
+ },
+ {
+  "level": 2,
+  "title": "1.2.5 数列极限大题",
+  "print_page": 71
+ },
+ {
+  "level": 3,
+  "title": "1.2.5.1 单调有界准则",
+  "print_page": 72
+ },
+ {
+  "level": 3,
+  "title": "1.2.5.2 压缩映射",
+  "print_page": 78
+ },
+ {
+  "level": 3,
+  "title": "1.2.5.3 n 的广义性（抽象！）",
+  "print_page": 80
+ },
+ {
+  "level": 3,
+  "title": "1.2.5.4 数列大题杂例 ",
+  "print_page": 81
+ },
+ {
+  "level": 2,
+  "title": "1.2.6 双数列",
+  "print_page": 85
+ },
+ {
+  "level": 3,
+  "title": "1.2.6.1 处在一个表达式里的双数列",
+  "print_page": 84
+ },
+ {
+  "level": 3,
+  "title": "1.2.6.2 双数列的无穷小比阶",
+  "print_page": 87
+ },
+ {
+  "level": 2,
+  "title": "1.2.7 数列中的特殊题型：sin(无穷π )",
+  "print_page": 89
+ },
+ {
+  "level": 1,
+  "title": "1.3 函数性质",
+  "print_page": 90
+ },
+ {
+  "level": 2,
+  "title": "1.3.1 函数的定义域",
+  "print_page": 90
+ },
+ {
+  "level": 2,
+  "title": "1.3.2 函数的连续性",
+  "print_page": 90
+ },
+ {
+  "level": 2,
+  "title": "1.3.3 函数的有界性",
+  "print_page": 90
+ },
+ {
+  "level": 2,
+  "title": "1.3.4 函数的奇偶性",
+  "print_page": 93
+ },
+ {
+  "level": 2,
+  "title": "1.3.5 函数的周期性",
+  "print_page": 96
+ },
+ {
+  "level": 2,
+  "title": "1.3.6 函数的对称性",
+  "print_page": 100
+ },
+ {
+  "level": 2,
+  "title": "1.3.7 函数的单调性和凹凸性",
+  "print_page": 102
+ },
+ {
+  "level": 2,
+  "title": "1.3.8 替换 f()括号内表达式求解函数",
+  "print_page": 102
+ },
+ {
+  "level": 2,
+  "title": "1.3.9 复合函数",
+  "print_page": 103
+ },
+ {
+  "level": 2,
+  "title": "1.3.10 取整函数",
+  "print_page": 103
+ },
+ {
+  "level": 2,
+  "title": "1.3.11 反函数（重点！）",
+  "print_page": 105
+ },
+ {
+  "level": 3,
+  "title": "1.3.11.1 反函数的基本概念",
+  "print_page": 105
+ },
+ {
+  "level": 3,
+  "title": "1.3.11.2 反函数的求导与二阶导",
+  "print_page": 105
+ },
+ {
+  "level": 3,
+  "title": "1.3.11.3 三角函数的反函数",
+  "print_page": 106
+ },
+ {
+  "level": 3,
+  "title": "1.3.11.4 反函数中非常容易被忽略的性质！",
+  "print_page": 107
+ },
+ {
+  "level": 0,
+  "title": "第二章 导数",
+  "print_page": 108
+ },
+ {
+  "level": 1,
+  "title": "2.1 导数概念题",
+  "print_page": 108
+ },
+ {
+  "level": 2,
+  "title": "2.1.1 可微",
+  "print_page": 108
+ },
+ {
+  "level": 2,
+  "title": "2.1.2 区分右导数与导数的右极限",
+  "print_page": 109
+ },
+ {
+  "level": 2,
+  "title": "2.1.3 导数极限定理",
+  "print_page": 110
+ },
+ {
+  "level": 2,
+  "title": "2.1.4 函数推不出导数（扯淡命题）+ 高中物理思想",
+  "print_page": 114
+ },
+ {
+  "level": 2,
+  "title": "2.1.5 概念题求极限见到不等式无脑夹逼！",
+  "print_page": 119
+ },
+ {
+  "level": 2,
+  "title": "2.1.6 注意题干中的“有定义”！",
+  "print_page": 120
+ },
+ {
+  "level": 2,
+  "title": "2.1.7 点推点，邻域推邻域",
+  "print_page": 123
+ },
+ {
+  "level": 2,
+  "title": "2.1.8 推导数存在需要满足四个条件",
+  "print_page": 124
+ },
+ {
+  "level": 1,
+  "title": "2.2 可导性的判断",
+  "print_page": 125
+ },
+ {
+  "level": 2,
+  "title": "2.2.1 具体函数可导性的判断",
+  "print_page": 125
+ },
+ {
+  "level": 2,
+  "title": "2.2.2 绝对值函数可导性的判断",
+  "print_page": 129
+ },
+ {
+  "level": 2,
+  "title": "2.2.3 抽象函数可导性的判断",
+  "print_page": 134
+ },
+ {
+  "level": 1,
+  "title": "2.3 单调性、凹凸性、极值点、拐点",
+  "print_page": 135
+ },
+ {
+  "level": 2,
+  "title": "2.3.1 单调性与极值点相关知识点",
+  "print_page": 135
+ },
+ {
+  "level": 2,
+  "title": "2.3.2 凹凸性与拐点相关知识点",
+  "print_page": 137
+ },
+ {
+  "level": 2,
+  "title": "2.3.3 秒杀！x的多项式的极值点拐点",
+  "print_page": 140
+ },
+ {
+  "level": 2,
+  "title": "2.3.4 图像 + 极值点拐点",
+  "print_page": 141
+ },
+ {
+  "level": 2,
+  "title": "2.3.5 极限表达式 + 极值点拐点",
+  "print_page": 142
+ },
+ {
+  "level": 2,
+  "title": "2.3.6 微分方程 + 极值点拐点",
+  "print_page": 144
+ },
+ {
+  "level": 2,
+  "title": "2.3.7 隐函数 + 极值点拐点",
+  "print_page": 145
+ },
+ {
+  "level": 2,
+  "title": "2.3.8 几何意义 + 凹凸性",
+  "print_page": 146
+ },
+ {
+  "level": 1,
+  "title": "2.4 导数相关的计算题",
+  "print_page": 147
+ },
+ {
+  "level": 2,
+  "title": "2.4.1 脱帽法",
+  "print_page": 147
+ },
+ {
+  "level": 2,
+  "title": "2.4.2 变限积分 + 导数计算",
+  "print_page": 147
+ },
+ {
+  "level": 2,
+  "title": "2.4.3 隐函数求导",
+  "print_page": 148
+ },
+ {
+  "level": 2,
+  "title": "2.4.4 幂指函数求导",
+  "print_page": 149
+ },
+ {
+  "level": 2,
+  "title": "2.4.5 对 ln（一坨）进行求导，可用对数运算法则简化计算",
+  "print_page": 149
+ },
+ {
+  "level": 2,
+  "title": "2.4.6 n 项连乘求导",
+  "print_page": 150
+ },
+ {
+  "level": 2,
+  "title": "2.4.7 切线与法线",
+  "print_page": 151
+ },
+ {
+  "level": 2,
+  "title": "2.4.8 反函数求导",
+  "print_page": 152
+ },
+ {
+  "level": 2,
+  "title": "2.4.9 参数方程求导（数学三不要求）",
+  "print_page": 154
+ },
+ {
+  "level": 2,
+  "title": "2.4.10 求n阶导数",
+  "print_page": 157
+ },
+ {
+  "level": 1,
+  "title": "2.5 渐近线",
+  "print_page": 162
+ },
+ {
+  "level": 1,
+  "title": "2.6 零点个数与方程根的个数",
+  "print_page": 166
+ },
+ {
+  "level": 1,
+  "title": "2.7 构造辅助函数（小题）",
+  "print_page": 171
+ },
+ {
+  "level": 1,
+  "title": "2.8 中值定理",
+  "print_page": 173
+ },
+ {
+  "level": 1,
+  "title": "2.9 不等式证明",
+  "print_page": 183
+ },
+ {
+  "level": 1,
+  "title": "2.10 二阶导专项——不只是泰勒公式！",
+  "print_page": 186
+ },
+ {
+  "level": 1,
+  "title": "2.11 曲率和曲率圆（数三不要求）",
+  "print_page": 196
+ },
+ {
+  "level": 2,
+  "title": "2.11.1 曲率和曲率半径",
+  "print_page": 196
+ },
+ {
+  "level": 2,
+  "title": "2.11.2 曲率圆",
+  "print_page": 198
+ },
+ {
+  "level": 1,
+  "title": "2.12 导数的物理应用（数三不要求）",
+  "print_page": 200
+ },
+ {
+  "level": 0,
+  "title": "第三章 积分",
+  "print_page": 202
+ },
+ {
+  "level": 1,
+  "title": "3.1 不定积分",
+  "print_page": 202
+ },
+ {
+  "level": 2,
+  "title": "3.1.1 常见函数的积分公式和处理手法 + 表格法",
+  "print_page": 202
+ },
+ {
+  "level": 2,
+  "title": "3.1.2 有理真分式分解（留数定理）+ 三次多项式因式分解",
+  "print_page": 205
+ },
+ {
+  "level": 2,
+  "title": "3.1.3 三角函数的不定积分",
+  "print_page": 209
+ },
+ {
+  "level": 2,
+  "title": "3.1.4 换元，分部积分，杂七杂八",
+  "print_page": 213
+ },
+ {
+  "level": 2,
+  "title": "3.1.5 不定积分补充",
+  "print_page": 219
+ },
+ {
+  "level": 1,
+  "title": "3.2 定积分",
+  "print_page": 229
+ },
+ {
+  "level": 2,
+  "title": "3.2.1 定积分定义 ",
+  "print_page": 229
+ },
+ {
+  "level": 3,
+  "title": "3.2.1.1 定积分定义",
+  "print_page": 229
+ },
+ {
+  "level": 3,
+  "title": "3.2.1.2 [a, b]区间上的定积分定义式（万能公式）",
+  "print_page": 232
+ },
+ {
+  "level": 2,
+  "title": "3.2.2 定积分计算题",
+  "print_page": 236
+ },
+ {
+  "level": 3,
+  "title": "3.2.2.1 定积分的几何意义",
+  "print_page": 236
+ },
+ {
+  "level": 3,
+  "title": "3.2.2.2 对称性（偶倍奇零）！！！！！",
+  "print_page": 237
+ },
+ {
+  "level": 3,
+  "title": "3.2.2.3 积分+周期性",
+  "print_page": 239
+ },
+ {
+  "level": 3,
+  "title": "3.2.2.4 定积分是一个常数！",
+  "print_page": 240
+ },
+ {
+  "level": 3,
+  "title": "3.2.2.5 带绝对值的定积分",
+  "print_page": 242
+ },
+ {
+  "level": 3,
+  "title": "3.2.2.6 不在根号下也能三角换元",
+  "print_page": 244
+ },
+ {
+  "level": 3,
+  "title": "3.2.2.7 究极好题！一题多解，定积分和变上下限积分的转化",
+  "print_page": 245
+ },
+ {
+  "level": 3,
+  "title": "3.2.2.8 区间再现公式及其推论",
+  "print_page": 247
+ },
+ {
+  "level": 3,
+  "title": "3.2.2.9 带 n 的定积分",
+  "print_page": 249
+ },
+ {
+  "level": 3,
+  "title": "3.2.2.10 平移区间巧解含 sinx 绝对值的积分",
+  "print_page": 251
+ },
+ {
+  "level": 2,
+  "title": "3.2.3 定积分比大小",
+  "print_page": 252
+ },
+ {
+  "level": 1,
+  "title": "3.3 变（上）限积分",
+  "print_page": 259
+ },
+ {
+  "level": 2,
+  "title": "3.3.1 变上限积分几何意义 + 可导性",
+  "print_page": 259
+ },
+ {
+  "level": 2,
+  "title": "3.3.2 可积与原函数存在",
+  "print_page": 262
+ },
+ {
+  "level": 2,
+  "title": "3.3.3 不定积分和变上限积分的转化",
+  "print_page": 263
+ },
+ {
+  "level": 2,
+  "title": "3.3.4 雨露均沾 + 变限积分和二重积分的转化",
+  "print_page": 264
+ },
+ {
+  "level": 1,
+  "title": "3.4 分部积分专项",
+  "print_page": 267
+ },
+ {
+  "level": 1,
+  "title": "3.5 反常积分",
+  "print_page": 269
+ },
+ {
+  "level": 2,
+  "title": "3.5.1 反常积分敛散性的判别",
+  "print_page": 269
+ },
+ {
+  "level": 2,
+  "title": "3.5.2 反常积分的计算",
+  "print_page": 277
+ },
+ {
+  "level": 2,
+  "title": "3.5.3 微分方程 + 反常积分",
+  "print_page": 282
+ },
+ {
+  "level": 1,
+  "title": "3.6 定积分几何应用",
+  "print_page": 284
+ },
+ {
+  "level": 2,
+  "title": "3.6.1 平面图形的面积",
+  "print_page": 284
+ },
+ {
+  "level": 2,
+  "title": "3.6.2 旋转体体积",
+  "print_page": 284
+ },
+ {
+  "level": 2,
+  "title": "3.6.3 弧长公式（数三不要求）",
+  "print_page": 291
+ },
+ {
+  "level": 2,
+  "title": "3.6.4 旋转体侧面积（数三不要求）",
+  "print_page": 291
+ },
+ {
+  "level": 2,
+  "title": "3.6.5 形心、质心、重心（数三不要求）",
+  "print_page": 291
+ },
+ {
+  "level": 2,
+  "title": "3.6.6 平行截面面积为已知的立体体积（数三不要求）",
+  "print_page": 292
+ },
+ {
+  "level": 1,
+  "title": "3.7 定积分物理应用（数三不要求）",
+  "print_page": 296
+ },
+ {
+  "level": 0,
+  "title": "第四章 微分方程",
+  "print_page": 298
+ },
+ {
+  "level": 1,
+  "title": "4.1 一定要注意的几个知识点",
+  "print_page": 298
+ },
+ {
+  "level": 2,
+  "title": "4.1.1 绝大多数情况下不需要考虑分母为 0",
+  "print_page": 298
+ },
+ {
+  "level": 2,
+  "title": "4.1.2 积分出现 ln 时，什么情况下可以不加绝对值？",
+  "print_page": 299
+ },
+ {
+  "level": 2,
+  "title": "4.1.3 微分方程中需要表明C为任意常数吗？",
+  "print_page": 302
+ },
+ {
+  "level": 2,
+  "title": "4.1.4 微分方程的解的形式",
+  "print_page": 304
+ },
+ {
+  "level": 1,
+  "title": "4.2 一阶微分方程",
+  "print_page": 305
+ },
+ {
+  "level": 1,
+  "title": "4.2（续） 特殊形式的一阶微分方程：伯努利方程（仅数一）",
+  "print_page": 312
+ },
+ {
+  "level": 1,
+  "title": "4.3 可降阶微分方程（数三不要求）",
+  "print_page": 314
+ },
+ {
+  "level": 1,
+  "title": "4.4 二阶微分方程",
+  "print_page": 316
+ },
+ {
+  "level": 2,
+  "title": "4.4.1 二阶微分方程及其解的结构",
+  "print_page": 316
+ },
+ {
+  "level": 2,
+  "title": "4.4.2 奇偶性 + 三角函数二阶非齐次微分方程（一定要看！）",
+  "print_page": 323
+ },
+ {
+  "level": 1,
+  "title": "4.5 三阶（高阶）微分方程",
+  "print_page": 325
+ },
+ {
+  "level": 1,
+  "title": "4.6 欧拉方程（仅数一）",
+  "print_page": 327
+ },
+ {
+  "level": 1,
+  "title": "4.7 给出具体变换，求解微分方程",
+  "print_page": 328
+ },
+ {
+  "level": 1,
+  "title": "4.8 微分方程 + 变上限积分",
+  "print_page": 330
+ },
+ {
+  "level": 1,
+  "title": "4.9 函数方程和微分方程的转化",
+  "print_page": 332
+ },
+ {
+  "level": 1,
+  "title": "4.10 f(x)和 g(x)共同确定的微分方程",
+  "print_page": 334
+ },
+ {
+  "level": 1,
+  "title": "4.11 微分方程和其他题型的组合",
+  "print_page": 334
+ },
+ {
+  "level": 2,
+  "title": "4.11.1 微分方程 + 连续",
+  "print_page": 334
+ },
+ {
+  "level": 2,
+  "title": "4.11.2 微分方程 + 无穷小量级判断（见 1.1.12 题型三）",
+  "print_page": 335
+ },
+ {
+  "level": 2,
+  "title": "4.11.3 微分方程 + 求解极限（思路同 4.11.2）",
+  "print_page": 335
+ },
+ {
+  "level": 2,
+  "title": "4.11.4 微分方程 + 极值点拐点（见 2.3.5）",
+  "print_page": 336
+ },
+ {
+  "level": 2,
+  "title": "4.11.5 微分方程 + 求 n 阶导数（见 2.4.10 例 2.57）",
+  "print_page": 336
+ },
+ {
+  "level": 2,
+  "title": "4.11.6 微分方程 + 反常积分（见 3.5.3）",
+  "print_page": 336
+ },
+ {
+  "level": 2,
+  "title": "4.11.7 特殊题型：可导函数中，见到“对于任意非x变量”",
+  "print_page": 336
+ },
+ {
+  "level": 1,
+  "title": "4.12微分方程应用题（数二中高频考点） ",
+  "print_page": 337
+ },
+ {
+  "level": 0,
+  "title": "第五章 多元微分",
+  "print_page": 344
+ },
+ {
+  "level": 1,
+  "title": "5.1 重极限",
+  "print_page": 344
+ },
+ {
+  "level": 1,
+  "title": "5.2 偏导数和可微概念题",
+  "print_page": 348
+ },
+ {
+  "level": 1,
+  "title": "5.3 分段函数的多元微分概念题",
+  "print_page": 358
+ },
+ {
+  "level": 1,
+  "title": "5.4 极易混淆的概念性知识：对位置求偏导和对变量求偏导",
+  "print_page": 361
+ },
+ {
+  "level": 1,
+  "title": "5.5 偏导数和全微分",
+  "print_page": 362
+ },
+ {
+  "level": 2,
+  "title": "5.5.1 偏导数的计算、先代后求、对称性（不包括隐函数）",
+  "print_page": 362
+ },
+ {
+  "level": 2,
+  "title": "5.5.2 全微分与偏积分（不涉及隐函数）",
+  "print_page": 368
+ },
+ {
+  "level": 2,
+  "title": "5.5.3 全微分方程",
+  "print_page": 375
+ },
+ {
+  "level": 2,
+  "title": "5.5.4 多元微分 + 微分方程",
+  "print_page": 378
+ },
+ {
+  "level": 2,
+  "title": "5.5.5 究极好题！2022 数二真题",
+  "print_page": 379
+ },
+ {
+  "level": 2,
+  "title": "5.5.6 隐函数的偏导数和全微分",
+  "print_page": 380
+ },
+ {
+  "level": 2,
+  "title": "5.5.7 对某个变量偏导数为 0",
+  "print_page": 386
+ },
+ {
+  "level": 1,
+  "title": "5.6 无条件极值和条件极（最）值",
+  "print_page": 388
+ },
+ {
+  "level": 2,
+  "title": "5.6.1 无条件极值大题（关键在于 AC-B²=0）",
+  "print_page": 388
+ },
+ {
+  "level": 2,
+  "title": "5.6.2 隐函数的无条件极值（2016 数二真题）",
+  "print_page": 393
+ },
+ {
+  "level": 2,
+  "title": "5.6.3 极限表达式 + 极值（仅 03 年数一考过）",
+  "print_page": 394
+ },
+ {
+  "level": 2,
+  "title": "5.6.4 条件极（最）值",
+  "print_page": 396
+ },
+ {
+  "level": 3,
+  "title": "5.6.4.1 基本方法论",
+  "print_page": 396
+ },
+ {
+  "level": 3,
+  "title": "5.6.4.2 解方程的基本手法（进阶手法在下一小节）",
+  "print_page": 398
+ },
+ {
+  "level": 3,
+  "title": "5.6.4.3 巧用行列式求解方程（需要用到线性代数基本知识）",
+  "print_page": 399
+ },
+ {
+  "level": 3,
+  "title": "5.6.4.4 “轮换对称性”可能会漏解！",
+  "print_page": 404
+ },
+ {
+  "level": 3,
+  "title": "5.6.4.5 究极易错题！2022 数一真题",
+  "print_page": 405
+ },
+ {
+  "level": 3,
+  "title": "5.6.4.6 约束条件出现端点（一定要注意！）",
+  "print_page": 406
+ },
+ {
+  "level": 3,
+  "title": "5.6.4.7 隐函数的条件极（最）值",
+  "print_page": 408
+ },
+ {
+  "level": 1,
+  "title": "5.7 高维度看待考研多元微分新颖大题——偏微分方程",
+  "print_page": 409
+ },
+ {
+  "level": 0,
+  "title": "第六章 二重积分",
+  "print_page": 414
+ },
+ {
+  "level": 1,
+  "title": "6.1 二重积分的几何意义（了解即可）",
+  "print_page": 414
+ },
+ {
+  "level": 1,
+  "title": "6.2 二重积分的极限定义式",
+  "print_page": 415
+ },
+ {
+  "level": 1,
+  "title": "6.3 二重积分的计算",
+  "print_page": 418
+ },
+ {
+  "level": 2,
+  "title": "6.3.1 对称性的平移",
+  "print_page": 418
+ },
+ {
+  "level": 2,
+  "title": "6.3.2 轮换对称性：本质是“积分结果与变量记号无关”的特殊情况",
+  "print_page": 419
+ },
+ {
+  "level": 2,
+  "title": "6.3.3 对称性的推论",
+  "print_page": null
+ },
+ {
+  "level": 2,
+  "title": "6.3.4 极坐标的平移",
+  "print_page": null
+ },
+ {
+  "level": 2,
+  "title": "6.3.5 直角坐标系下交换积分次序",
+  "print_page": 427
+ },
+ {
+  "level": 2,
+  "title": "6.3.6 极坐标系下交换积分次序（推荐看视频）",
+  "print_page": 427
+ },
+ {
+  "level": 2,
+  "title": "6.3.7 割补法",
+  "print_page": 429
+ },
+ {
+  "level": 2,
+  "title": "6.3.8 极坐标转化成直角坐标",
+  "print_page": 434
+ },
+ {
+  "level": 1,
+  "title": "6.4 恶心人的积分区域（推荐看视频）",
+  "print_page": 435
+ },
+ {
+  "level": 1,
+  "title": "6.5 二重积分与定积分的转化",
+  "print_page": 442
+ },
+ {
+  "level": 2,
+  "title": "6.5.1 二重积分转化成两个定积分的乘积",
+  "print_page": 442
+ },
+ {
+  "level": 2,
+  "title": "6.5.2 大胆设出原函数！",
+  "print_page": 443
+ },
+ {
+  "level": 1,
+  "title": "6.6 二重积分与变限积分的转化",
+  "print_page": 444
+ },
+ {
+  "level": 1,
+  "title": "6.7 二重积分比大小",
+  "print_page": 444
+ },
+ {
+  "level": 1,
+  "title": "6.8 二重积分和其他题型的融合",
+  "print_page": 448
+ },
+ {
+  "level": 2,
+  "title": "6.8.1 二重积分是一个数",
+  "print_page": 448
+ },
+ {
+  "level": 2,
+  "title": "6.8.2 二重积分 + 极限",
+  "print_page": 449
+ },
+ {
+  "level": 2,
+  "title": "6.8.3 二重积分 + 计算导数",
+  "print_page": 450
+ },
+ {
+  "level": 2,
+  "title": "6.8.4 二重积分 + 微分方程",
+  "print_page": 450
+ },
+ {
+  "level": 2,
+  "title": "6.8.5 二重积分 + 偏导数 + 分部积分",
+  "print_page": 452
+ },
+ {
+  "level": 2,
+  "title": "6.8.6 定积分的几何应用",
+  "print_page": 452
+ },
+ {
+  "level": 1,
+  "title": "6.9 考研考过的特殊形式的二重积分",
+  "print_page": 453
+ },
+ {
+  "level": 2,
+  "title": "6.9.1 取整函数 + 二重积分",
+  "print_page": 453
+ },
+ {
+  "level": 2,
+  "title": "6.9.2 max 函数 + 二重积分",
+  "print_page": 454
+ },
+ {
+  "level": 1,
+  "title": "6.10 二重积分中值定理",
+  "print_page": 455
+ },
+ {
+  "level": 0,
+  "title": "第七章 无穷级数",
+  "print_page": null
+ },
+ {
+  "level": 1,
+  "title": "7.1 要着重强调的几个知识点",
+  "print_page": null
+ },
+ {
+  "level": 2,
+  "title": "7.1.1 根值判别法的最后一块拼图：阶乘开 n 次根号",
+  "print_page": null
+ },
+ {
+  "level": 2,
+  "title": "7.1.2 正项级数也可以举恒为 0 的反例！",
+  "print_page": null
+ },
+ {
+  "level": 2,
+  "title": "7.1.3 比较、比值和根值判别法的注意事项",
+  "print_page": null
+ },
+ {
+  "level": 2,
+  "title": "7.1.4 敛散推不了极限！",
+  "print_page": null
+ },
+ {
+  "level": 2,
+  "title": "7.1.5 不要完全忽视判别法",
+  "print_page": null
+ },
+ {
+  "level": 1,
+  "title": "7.2 抽象的常数项级数敛散性判别（高频考点）",
+  "print_page": null
+ },
+ {
+  "level": 2,
+  "title": "7.2.1 相关知识点",
+  "print_page": null
+ },
+ {
+  "level": 2,
+  "title": "7.2.2 做题逻辑：举反例 + 遇事不决，比较判别！",
+  "print_page": null
+ },
+ {
+  "level": 2,
+  "title": "7.2.3 常规例题：举特例 + 比较判别法",
+  "print_page": null
+ },
+ {
+  "level": 2,
+  "title": "7.2.4 优中选优的几道好题",
+  "print_page": null
+ },
+ {
+  "level": 1,
+  "title": "7.3 具体级数的敛散性判别",
+  "print_page": null
+ },
+ {
+  "level": 1,
+  "title": "7.4 阿贝尔定理（抽象的幂级数的敛散性）",
+  "print_page": null
+ },
+ {
+  "level": 1,
+  "title": "7.5 非常精彩！级数小题天花板！2020 数一真题",
+  "print_page": null
+ },
+ {
+  "level": 1,
+  "title": "7.6 比值法和根值法求收敛半径只是充分条件",
+  "print_page": null
+ },
+ {
+  "level": 1,
+  "title": "7.7 两个幂级数相加相乘后的收敛半径和收敛域",
+  "print_page": null
+ },
+ {
+  "level": 1,
+  "title": "7.8 级数的和与奇偶项的和的关系",
+  "print_page": null
+ },
+ {
+  "level": 1,
+  "title": "7.9 见到 f(1/n)，条件反射想泰勒！",
+  "print_page": null
+ },
+ {
+  "level": 1,
+  "title": "7.10 不能小猪佩奇的级数求和",
+  "print_page": null
+ },
+ {
+  "level": 1,
+  "title": "7.11 函数展开成幂级数",
+  "print_page": null
+ },
+ {
+  "level": 1,
+  "title": "7.12 级数大题",
+  "print_page": null
+ },
+ {
+  "level": 2,
+  "title": "7.12.1 用所给微分方程求和函数",
+  "print_page": null
+ },
+ {
+  "level": 2,
+  "title": "7.12.2 构造微分方程求和函数（这一小节建议听视频，非常详细）",
+  "print_page": null
+ },
+ {
+  "level": 2,
+  "title": "7.12.3 级数 + 数列综合大题",
+  "print_page": null
+ },
+ {
+  "level": 2,
+  "title": "7.12.4 级数 + 双数列！",
+  "print_page": null
+ },
+ {
+  "level": 2,
+  "title": "7.12.5 级数大题杂例",
+  "print_page": null
+ },
+ {
+  "level": 2,
+  "title": "7.12.6 通过递推关系式求数列通项",
+  "print_page": null
+ },
+ {
+  "level": 1,
+  "title": "7.13 傅里叶级数（仅数一）",
+  "print_page": null
+ },
+ {
+  "level": 2,
+  "title": "7.13.1 狄利克雷收敛定理（秒杀）",
+  "print_page": null
+ },
+ {
+  "level": 2,
+  "title": "7.13.2 函数展开成傅里叶级数",
+  "print_page": null
+ },
+ {
+  "level": 2,
+  "title": "7.13.3 傅里叶级数大题",
+  "print_page": null
+ }
+]

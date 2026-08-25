@@ -1,0 +1,797 @@
+[
+ {
+  "level": 0,
+  "title": "目 录",
+  "print_page": -4
+ },
+ {
+  "level": 0,
+  "title": "第零章 一定要看的几个视频（推荐看视频讲解） ",
+  "print_page": 1
+ },
+ {
+  "level": 1,
+  "title": "0.1 三阶矩阵快速求逆求伴随",
+  "print_page": 1
+ },
+ {
+  "level": 1,
+  "title": "0.2 解方程赋 10,01 的本质",
+  "print_page": 2
+ },
+ {
+  "level": 1,
+  "title": "0.3 三次多项式因式分解",
+  "print_page": 3
+ },
+ {
+  "level": 1,
+  "title": "0.4 矩阵方程和特征值的转化",
+  "print_page": 4
+ },
+ {
+  "level": 1,
+  "title": "0.5 可以不用施密特正交化",
+  "print_page": 5
+ },
+ {
+  "level": 1,
+  "title": "0.6 利用题干的必要条件求解",
+  "print_page": 6
+ },
+ {
+  "level": 1,
+  "title": "0.7 等价箭头的含义",
+  "print_page": 6
+ },
+ {
+  "level": 1,
+  "title": "0.8 初等变换的记号",
+  "print_page": 7
+ },
+ {
+  "level": 0,
+  "title": "第一章 行列式",
+  "print_page": 8
+ },
+ {
+  "level": 1,
+  "title": "1.1 具体矩阵的行列式",
+  "print_page": 8
+ },
+ {
+  "level": 2,
+  "title": "1.1.1 四阶行列式",
+  "print_page": 8
+ },
+ {
+  "level": 3,
+  "title": "1.1.1.1 不含有 的四阶行列式",
+  "print_page": 8
+ },
+ {
+  "level": 3,
+  "title": "1.1.1.2 含有 的四阶行列式",
+  "print_page": 10
+ },
+ {
+  "level": 2,
+  "title": "1.1.2 n 阶行列式",
+  "print_page": 12
+ },
+ {
+  "level": 2,
+  "title": "1.1.3 范德蒙德行列式",
+  "print_page": 14
+ },
+ {
+  "level": 1,
+  "title": "1.2 余子式和代数余子式",
+  "print_page": 15
+ },
+ {
+  "level": 1,
+  "title": "1.3 aij=Aij（推导过程很重要！） ",
+  "print_page": 21
+ },
+ {
+  "level": 1,
+  "title": "1.4 抽象矩阵的行列式",
+  "print_page": 23
+ },
+ {
+  "level": 1,
+  "title": "1.5 拆 E！（重中之重）",
+  "print_page": 27
+ },
+ {
+  "level": 0,
+  "title": "第二章 矩阵",
+  "print_page": 30
+ },
+ {
+  "level": 1,
+  "title": "2.1 初等变换与初等矩阵",
+  "print_page": 30
+ },
+ {
+  "level": 1,
+  "title": "2.2 矩阵的基本运算公式",
+  "print_page": 33
+ },
+ {
+  "level": 1,
+  "title": "2.3 矩阵方程",
+  "print_page": 34
+ },
+ {
+  "level": 1,
+  "title": "2.4 矩阵的秩",
+  "print_page": 39
+ },
+ {
+  "level": 2,
+  "title": "2.4.1 矩阵相乘，秩不可能越乘越大",
+  "print_page": 40
+ },
+ {
+  "level": 2,
+  "title": "2.4.2 矩阵的“强弱”关系",
+  "print_page": 41
+ },
+ {
+  "level": 2,
+  "title": "2.4.3 矩阵的“四秩相等”",
+  "print_page": 43
+ },
+ {
+  "level": 2,
+  "title": "2.4.4 左乘列满秩，右乘行满秩，秩不变",
+  "print_page": 44
+ },
+ {
+  "level": 2,
+  "title": "2.4.5 矩阵等价与向量组等价",
+  "print_page": 45
+ },
+ {
+  "level": 2,
+  "title": "2.4.6 西尔维斯特不等式，AB=O，伴随矩阵的秩，矩阵不等式",
+  "print_page": 46
+ },
+ {
+  "level": 2,
+  "title": "2.4.7 r(A+B) ≤ r(A, B) ≤ r(A) + r(B)",
+  "print_page": 50
+ },
+ {
+  "level": 2,
+  "title": "2.4.8 “推不出来”的思想的重要性",
+  "print_page": 53
+ },
+ {
+  "level": 2,
+  "title": "2.4.9 秩与向量、方程组",
+  "print_page": 55
+ },
+ {
+  "level": 2,
+  "title": "2.4.10 秩与相似、特征值、特征向量",
+  "print_page": 55
+ },
+ {
+  "level": 2,
+  "title": "2.4.11 秩与二次型",
+  "print_page": 56
+ },
+ {
+  "level": 2,
+  "title": "2.4.12 对等式两端同时取秩",
+  "print_page": 57
+ },
+ {
+  "level": 1,
+  "title": "2.5 重要矩阵与特殊矩阵",
+  "print_page": 58
+ },
+ {
+  "level": 2,
+  "title": "2.5.1 实矩阵",
+  "print_page": 58
+ },
+ {
+  "level": 2,
+  "title": "2.5.2 可逆矩阵",
+  "print_page": 58
+ },
+ {
+  "level": 2,
+  "title": "2.5.3 可交换矩阵 AB=BA",
+  "print_page": 58
+ },
+ {
+  "level": 2,
+  "title": "2.5.4 零矩阵",
+  "print_page": 61
+ },
+ {
+  "level": 2,
+  "title": "2.5.5 正交矩阵",
+  "print_page": 62
+ },
+ {
+  "level": 2,
+  "title": "2.5.6 实对称矩阵",
+  "print_page": 65
+ },
+ {
+  "level": 2,
+  "title": "2.5.7 秩一矩阵",
+  "print_page": 66
+ },
+ {
+  "level": 2,
+  "title": "2.5.8 (A-aE)(A-bE)=O",
+  "print_page": 70
+ },
+ {
+  "level": 2,
+  "title": "2.5.9 列满秩矩阵",
+  "print_page": 71
+ },
+ {
+  "level": 2,
+  "title": "2.5.10 行满秩矩阵",
+  "print_page": 73
+ },
+ {
+  "level": 2,
+  "title": "2.5.11 矩阵的 n 次幂",
+  "print_page": 75
+ },
+ {
+  "level": 1,
+  "title": "2.6 分块矩阵",
+  "print_page": 85
+ },
+ {
+  "level": 2,
+  "title": "2.6.1 分块矩阵的行列式",
+  "print_page": 85
+ },
+ {
+  "level": 2,
+  "title": "2.6.2 分块矩阵的转置",
+  "print_page": 85
+ },
+ {
+  "level": 2,
+  "title": "2.6.3 分块矩阵的秩（非常重要）",
+  "print_page": 86
+ },
+ {
+  "level": 3,
+  "title": "2.6.3.1 用向量之间的表示关系研究",
+  "print_page": 87
+ },
+ {
+  "level": 3,
+  "title": "2.6.3.2 舒尔公式（广义行列变换）",
+  "print_page": 90
+ },
+ {
+  "level": 3,
+  "title": "2.6.3.3 向量等价时，无需可逆即可变换！",
+  "print_page": 92
+ },
+ {
+  "level": 2,
+  "title": "2.6.4 分块矩阵的伴随（非常重要）",
+  "print_page": 93
+ },
+ {
+  "level": 0,
+  "title": "第三章 向量",
+  "print_page": 97
+ },
+ {
+  "level": 1,
+  "title": "3.0 向量基本知识点",
+  "print_page": 97
+ },
+ {
+  "level": 1,
+  "title": "3.1 抽象向量的线性相关与线性无关",
+  "print_page": 101
+ },
+ {
+  "level": 1,
+  "title": "3.2 通过线性无关构造 AP=PB，转化为 AB 相似",
+  "print_page": 106
+ },
+ {
+  "level": 1,
+  "title": "3.3 向量正交",
+  "print_page": 109
+ },
+ {
+  "level": 1,
+  "title": "3.4 题干出现向量“均 xxx”",
+  "print_page": 114
+ },
+ {
+  "level": 1,
+  "title": "3.5 具体向量的线性相关与线性无关",
+  "print_page": 116
+ },
+ {
+  "level": 1,
+  "title": "3.6 向量的线性表示与极大线性无关组",
+  "print_page": 118
+ },
+ {
+  "level": 1,
+  "title": "3.7 向量组的等价",
+  "print_page": 121
+ },
+ {
+  "level": 1,
+  "title": "3.8 向量和方程组的联系",
+  "print_page": 128
+ },
+ {
+  "level": 2,
+  "title": "3.8.1 方程组的本质是行向量",
+  "print_page": 128
+ },
+ {
+  "level": 3,
+  "title": "3.8.1.1 方程组同解",
+  "print_page": 128
+ },
+ {
+  "level": 3,
+  "title": "3.8.1.2 Ax=0 的解是 Bx=0 的解（此小节非常重要！）",
+  "print_page": 132
+ },
+ {
+  "level": 2,
+  "title": "3.8.2 非齐次方程组有解，等价于列向量可以被表示",
+  "print_page": 136
+ },
+ {
+  "level": 2,
+  "title": "3.8.3 利用向量的表示关系，凑方程组的解",
+  "print_page": 138
+ },
+ {
+  "level": 2,
+  "title": "3.8.4 被两组向量同时表示，转化为方程组",
+  "print_page": 139
+ },
+ {
+  "level": 1,
+  "title": "3.9 向量与特征向量",
+  "print_page": 140
+ },
+ {
+  "level": 2,
+  "title": "3.9.1 见到 Aα=xx 和 Aβ=xx",
+  "print_page": 140
+ },
+ {
+  "level": 2,
+  "title": "3.9.2 计算Aⁿα",
+  "print_page": 141
+ },
+ {
+  "level": 2,
+  "title": "3.9.3 见到A=αβᵀ",
+  "print_page": 145
+ },
+ {
+  "level": 2,
+  "title": "3.9.4 给出列向量的表示关系，找到特征值 0 对应的特征向量",
+  "print_page": 147
+ },
+ {
+  "level": 0,
+  "title": "第四章 方程组",
+  "print_page": 148
+ },
+ {
+  "level": 1,
+  "title": "4.0 方程组基本知识点",
+  "print_page": 148
+ },
+ {
+  "level": 1,
+  "title": "4.1 具体方程组的公共解",
+  "print_page": 150
+ },
+ {
+  "level": 1,
+  "title": "4.2 含参数的具体方程",
+  "print_page": 153
+ },
+ {
+  "level": 1,
+  "title": "4.3 矩阵方程",
+  "print_page": 157
+ },
+ {
+  "level": 2,
+  "title": "4.3.1 硬核设出矩阵中每个未知数",
+  "print_page": 157
+ },
+ {
+  "level": 2,
+  "title": "4.3.2 通过矩阵方程凑出特征值和特征向量",
+  "print_page": 158
+ },
+ {
+  "level": 1,
+  "title": "4.4 给出向量的表示关系，转化为方程组的解",
+  "print_page": 159
+ },
+ {
+  "level": 1,
+  "title": "4.5 基础解系",
+  "print_page": 160
+ },
+ {
+  "level": 1,
+  "title": "4.6 非齐次方程",
+  "print_page": 162
+ },
+ {
+  "level": 1,
+  "title": "4.7 抽象方程组",
+  "print_page": 166
+ },
+ {
+  "level": 2,
+  "title": "4.7.1 有解、有唯一解、有无穷多解",
+  "print_page": 166
+ },
+ {
+  "level": 2,
+  "title": "4.7.2 方程组同解",
+  "print_page": 167
+ },
+ {
+  "level": 2,
+  "title": "4.7.3 Ax=0 的解是 Bx=0 的解",
+  "print_page": 171
+ },
+ {
+  "level": 2,
+  "title": "4.7.4 AB=O，则 B 列是 Ax=0 的解",
+  "print_page": 171
+ },
+ {
+  "level": 2,
+  "title": "4.7.5 A*x=0 的解",
+  "print_page": 171
+ },
+ {
+  "level": 0,
+  "title": "第五章 相似",
+  "print_page": 172
+ },
+ {
+  "level": 1,
+  "title": "5.0 基本知识点",
+  "print_page": 172
+ },
+ {
+  "level": 2,
+  "title": "5.0.1 特征方程的两种等价形式",
+  "print_page": 172
+ },
+ {
+  "level": 2,
+  "title": "5.0.2 代数重数和几何重数",
+  "print_page": 172
+ },
+ {
+  "level": 2,
+  "title": "5.0.3 伴随矩阵的特征值",
+  "print_page": 173
+ },
+ {
+  "level": 2,
+  "title": "5.0.4 f(A)的特征向量不一定是 A 的特征向量！",
+  "print_page": 173
+ },
+ {
+  "level": 2,
+  "title": "5.0.5 特征值与特征向量",
+  "print_page": 178
+ },
+ {
+  "level": 2,
+  "title": "5.0.6 相似对角化",
+  "print_page": 179
+ },
+ {
+  "level": 2,
+  "title": "5.0.7 矩阵相似",
+  "print_page": 180
+ },
+ {
+  "level": 2,
+  "title": "5.0.8 矩阵方程和特征值方程的转化",
+  "print_page": 181
+ },
+ {
+  "level": 2,
+  "title": "5.0.9 实对称矩阵的“知一求二”",
+  "print_page": 182
+ },
+ {
+  "level": 1,
+  "title": "5.1 特征值可能为虚数",
+  "print_page": 185
+ },
+ {
+  "level": 1,
+  "title": "5.2 特殊矩阵的特征值和特征向量",
+  "print_page": 185
+ },
+ {
+  "level": 2,
+  "title": "5.2.1 秩一矩阵",
+  "print_page": 185
+ },
+ {
+  "level": 2,
+  "title": "5.2.2 正交矩阵",
+  "print_page": 185
+ },
+ {
+  "level": 1,
+  "title": "5.3 特征向量必须是非零向量",
+  "print_page": 185
+ },
+ {
+  "level": 1,
+  "title": "5.4 凑特征值和特征向量",
+  "print_page": 186
+ },
+ {
+  "level": 2,
+  "title": "5.4.1 A、B 相似，已知 A 的特征向量，求 B 的特征向量",
+  "print_page": 186
+ },
+ {
+  "level": 2,
+  "title": "5.4.2 给出含参矩阵的一个特征向量，求解参数",
+  "print_page": 188
+ },
+ {
+  "level": 2,
+  "title": "5.4.3 每行元素之和均为 k",
+  "print_page": 188
+ },
+ {
+  "level": 2,
+  "title": "5.4.4 A11+A22+A33=tr(A*)",
+  "print_page": 188
+ },
+ {
+  "level": 2,
+  "title": "5.4.5 构建矩阵乘法 AP=PB，转化为 AB 相似",
+  "print_page": 188
+ },
+ {
+  "level": 2,
+  "title": "5.4.6 Ax=0 的非零解是矩阵 A 特征值 0 对应的特征向量",
+  "print_page": 189
+ },
+ {
+  "level": 2,
+  "title": "5.4.7 对 AB=C 中的 B 和 C 按列分块，凑出特征值和特征向量",
+  "print_page": 189
+ },
+ {
+  "level": 1,
+  "title": "5.5 矩阵相似与相似对角化",
+  "print_page": 190
+ },
+ {
+  "level": 2,
+  "title": "5.5.1 矩阵相似",
+  "print_page": 190
+ },
+ {
+  "level": 2,
+  "title": "5.5.2 矩阵的相似对角化",
+  "print_page": 193
+ },
+ {
+  "level": 1,
+  "title": "补：反证法专题",
+  "print_page": 200
+ },
+ {
+  "level": 1,
+  "title": "5.6 秩一矩阵相似对角化结论的证明",
+  "print_page": 201
+ },
+ {
+  "level": 1,
+  "title": "5.7 类秩一矩阵的特征值的快速计算",
+  "print_page": 201
+ },
+ {
+  "level": 1,
+  "title": "5.8 AB=BA",
+  "print_page": 202
+ },
+ {
+  "level": 1,
+  "title": "5.9 相似大题",
+  "print_page": 204
+ },
+ {
+  "level": 2,
+  "title": "5.9.1 计算Aⁿ",
+  "print_page": 204
+ },
+ {
+  "level": 2,
+  "title": "5.9.2 计算Aⁿα",
+  "print_page": 204
+ },
+ {
+  "level": 2,
+  "title": "5.9.3 P⁻¹AP=B",
+  "print_page": 204
+ },
+ {
+  "level": 0,
+  "title": "第六章 二次型",
+  "print_page": 210
+ },
+ {
+  "level": 1,
+  "title": "6.0 基本知识点",
+  "print_page": 210
+ },
+ {
+  "level": 1,
+  "title": "6.1 二次型矩阵和二次型的秩",
+  "print_page": 212
+ },
+ {
+  "level": 2,
+  "title": "6.1.1 二次型矩阵必须是实对称矩阵",
+  "print_page": 212
+ },
+ {
+  "level": 2,
+  "title": "6.1.2 二次型矩阵",
+  "print_page": 214
+ },
+ {
+  "level": 3,
+  "title": "6.1.2.1 两个Σ的嵌套",
+  "print_page": 214
+ },
+ {
+  "level": 3,
+  "title": "6.1.2.2 二次型向量的拆解",
+  "print_page": 216
+ },
+ {
+  "level": 1,
+  "title": "6.2 可逆线性变换、标准形、规范形、合同",
+  "print_page": 217
+ },
+ {
+  "level": 2,
+  "title": "6.2.1 可逆线性变换",
+  "print_page": 217
+ },
+ {
+  "level": 2,
+  "title": "6.2.2 “伪”配方法",
+  "print_page": 221
+ },
+ {
+  "level": 2,
+  "title": "6.2.3 标准形、规范形基本知识点",
+  "print_page": 222
+ },
+ {
+  "level": 2,
+  "title": "6.2.4 合同基本知识点",
+  "print_page": 224
+ },
+ {
+  "level": 2,
+  "title": "6.2.5 正定基本知识点",
+  "print_page": 225
+ },
+ {
+  "level": 1,
+  "title": "6.3 实对称矩阵的谱分解定理",
+  "print_page": 226
+ },
+ {
+  "level": 1,
+  "title": "6.4 初等行变换快速求解 pq！",
+  "print_page": 228
+ },
+ {
+  "level": 1,
+  "title": "6.5 正定别忘了“各阶顺序主子式均大于 0”",
+  "print_page": 233
+ },
+ {
+  "level": 1,
+  "title": "6.6 可以不用施密特正交化",
+  "print_page": 235
+ },
+ {
+  "level": 1,
+  "title": "6.7 正交变换和可逆线性变换",
+  "print_page": 236
+ },
+ {
+  "level": 2,
+  "title": "6.7.1 正交变换",
+  "print_page": 236
+ },
+ {
+  "level": 2,
+  "title": "6.7.2 “伪”正交变换",
+  "print_page": 240
+ },
+ {
+  "level": 2,
+  "title": "6.7.3 可逆线性变换",
+  "print_page": 241
+ },
+ {
+  "level": 1,
+  "title": "6.8 解齐次方程，无脑配方（附考场上大题书写格式）",
+  "print_page": 247
+ },
+ {
+  "level": 1,
+  "title": "6.9 正定矩阵的分解",
+  "print_page": 249
+ },
+ {
+  "level": 1,
+  "title": "6.10 二次型的最值问题",
+  "print_page": 253
+ },
+ {
+  "level": 1,
+  "title": "6.11 正定矩阵和正定二次型（进阶版）",
+  "print_page": 256
+ },
+ {
+  "level": 2,
+  "title": "6.11.1 定义法证明矩阵正定",
+  "print_page": 256
+ },
+ {
+  "level": 2,
+  "title": "6.11.2 几个完全平方相加 + 正定 + 求解参数范围",
+  "print_page": 258
+ },
+ {
+  "level": 2,
+  "title": "6.11.3 满足正定二次型的定义式的非实对称矩阵",
+  "print_page": 260
+ },
+ {
+  "level": 2,
+  "title": "6.11.4 分块矩阵的正定",
+  "print_page": 261
+ }
+]
